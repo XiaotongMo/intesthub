@@ -1,19 +1,18 @@
-## 这里是house！
-### 读书  
+### Book  
 
 -------
-### 时评  
+### Article  
 
 -------
-### 电影  
+### Movie  
 [关于平权运动的影视作品清单（持续补充）](https://www.douban.com/note/685312116/)
 
 -------
-### 音乐  
+### Music  
 
 -------
-### 其他    
+### Else    
 [读新闻](readnews.md)
 
 -------
-[返回首页](https://karwamey.github.io/)
+[Return to homepage](https://karwamey.github.io/)
